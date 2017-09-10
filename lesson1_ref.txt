@@ -1,0 +1,15 @@
+.LOG
+
+Now that you've learned about some version control systems, and how they can help you save the history of a file, go add the following question and your thoughts on it to your reflections file:
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+7:15 PM 8/20/2017
+you can open a file in git bash with the help of ' OPEN FILENAME.TXT OR.EXE OR ANYTHING
+GIT IS THE MOST USABLE VERSION CONTROL AS IT HAS ALL THE FEATURES INCLUDING EDITIING BY ANY EDITOR, OFFLINE USE AND MANUAL SAVING 
+WITH USER CREATED CHECKPOINTS. 
+Commit is the basic of git. it is basically the building blocks of git.
+9:44 PM 8/20/2017
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs
+ having versions automatically saved, like Google Docs does?
+9:50 PM 8/20/2017
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
